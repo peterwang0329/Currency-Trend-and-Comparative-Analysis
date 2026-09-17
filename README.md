@@ -1,5 +1,5 @@
-# python期中報告:匯率變動趨勢及比較分析
- 本次報告選用[台灣銀行的歷史匯率查詢網站](https://rate.bot.com.tw/xrt/history?Lang=zh-TW)使用爬蟲進行資料收集
+# python:匯率變動趨勢及比較分析
+ 本次選用[台灣銀行的歷史匯率查詢網站](https://rate.bot.com.tw/xrt/history?Lang=zh-TW)使用爬蟲進行資料收集
 
 選用 美金(USD)、英鎊(GBP)和澳幣(AUD) **從2024/10/28為止**往前回推**三個月內**的現金匯率買入和賣出進行比較
 
